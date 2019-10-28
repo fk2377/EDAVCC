@@ -5,3 +5,5 @@ matplotlib library and compared it to ggplot library of R.
 
 The video is available on youtube:
 https://youtu.be/phVKWXaAStY
+
+Slides available on the repo.
