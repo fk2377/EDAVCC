@@ -1,4 +1,4 @@
-# EDAVCC
+# EDAV Community Contribution
 EDAV Community Contribution Slides
 We created a video describing visualization in python and R. For python we specifically focused on 
 matplotlib library and compared it to ggplot library of R.
